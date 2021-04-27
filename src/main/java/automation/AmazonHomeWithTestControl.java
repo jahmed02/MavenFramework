@@ -53,7 +53,5 @@ public class AmazonHomeWithTestControl {
     }
 
     // TestNG annotation of aftermethod, will run after completing all the test cases
-
-
-
+    
 }
