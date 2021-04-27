@@ -9,6 +9,7 @@
 
         <classes>
             <class name = "automation.AmazonHomeWithTestControl"></class>
+<!--            <class name=""></class>-->
         </classes>
 
     </test>
